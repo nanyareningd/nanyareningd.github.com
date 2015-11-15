@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://nanyareningd.github.io/atom.xml" rel="self"/>
   <link href="http://nanyareningd.github.io/"/>
-  <updated>2015-11-15T20:12:28+08:00</updated>
+  <updated>2015-11-15T20:51:49+08:00</updated>
   <id>http://nanyareningd.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Title]]></title>
+    <link href="http://nanyareningd.github.io/blog/2015/11/15/title/"/>
+    <updated>2015-11-15T20:50:04+08:00</updated>
+    <id>http://nanyareningd.github.io/blog/2015/11/15/title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第一篇日志]]></title>
+    <link href="http://nanyareningd.github.io/blog/2015/11/15/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%97%A5%E5%BF%97/"/>
+    <updated>2015-11-15T00:00:00+08:00</updated>
+    <id>http://nanyareningd.github.io/blog/2015/11/15/第一篇日志</id>
+    <content type="html"><![CDATA[<p>我诞生了！</p>
+]]></content>
+  </entry>
   
 </feed>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: "欢迎12级师弟师妹"
+date: 2012-10-01
+comments: true
+categories: 南雅 2012
+---
+{% img img-responsive /images/post/20121001/2012guoqing.jpg %}<!--more-->

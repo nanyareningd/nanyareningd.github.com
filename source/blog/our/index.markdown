@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "about"
-date: 2015-11-15 20:50
+title: "our"
+date: 2015-11-16 10:10
+author: 贺智超
 comments: true
 sharing: true
 footer: true

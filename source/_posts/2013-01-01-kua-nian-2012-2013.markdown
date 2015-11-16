@@ -1,0 +1,8 @@
+---
+layout: post
+title: "2012~13跨年"
+date: 2013-01-01
+comments: true
+categories: 南雅 2013 跨年
+---
+{% img img-responsive /images/post/20130101/20122013kuanian.jpg %}<!--more-->

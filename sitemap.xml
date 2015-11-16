@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://nanyareningd.github.io/blog/2015/11/15/title/</loc>
-    <lastmod>2015-11-15T20:50:04+08:00</lastmod>
+    <loc>http://nanyareningd.github.io/blog/2014/01/01/kua-nian-2013-2014/</loc>
+    <lastmod>2014-01-01T00:00:00+08:00</lastmod>
   </url>
   <url>
-    <loc>http://nanyareningd.github.io/blog/2015/11/15/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%97%A5%E5%BF%97/</loc>
-    <lastmod>2015-11-15T00:00:00+08:00</lastmod>
+    <loc>http://nanyareningd.github.io/blog/2012/10/01/guo-qing-2012/</loc>
+    <lastmod>2012-10-01T00:00:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://nanyareningd.github.io/blog/2012/06/24/duan-wu-2012/</loc>
+    <lastmod>2012-06-24T00:00:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://nanyareningd.github.io/blog/2011/09/01/di-yi-ci-jian-mian/</loc>
+    <lastmod>2011-09-01T00:00:00+08:00</lastmod>
   </url>
   <url>
     <loc>http://nanyareningd.github.io/blog/archives/</loc>
@@ -15,6 +23,18 @@
     <loc>http://nanyareningd.github.io/</loc>
   </url>
   <url>
-    <loc>http://nanyareningd.github.io/about/</loc>
+    <loc>http://nanyareningd.github.io/blog/our/</loc>
+  </url>
+  <url>
+    <loc>http://nanyareningd.github.io/blog/categories/nan-ya/</loc>
+  </url>
+  <url>
+    <loc>http://nanyareningd.github.io/blog/categories/2011/</loc>
+  </url>
+  <url>
+    <loc>http://nanyareningd.github.io/blog/categories/2012/</loc>
+  </url>
+  <url>
+    <loc>http://nanyareningd.github.io/blog/categories/2014/</loc>
   </url>
 </urlset>

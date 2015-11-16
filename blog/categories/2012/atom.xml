@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[分类：2012 | 南雅ers在广东]]></title>
+  <link href="http://nanyareningd.github.io/blog/categories/2012/atom.xml" rel="self"/>
+  <link href="http://nanyareningd.github.io/"/>
+  <updated>2015-11-16T11:13:39+08:00</updated>
+  <id>http://nanyareningd.github.io/</id>
+  <author>
+    <name><![CDATA[NANYAers]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[欢迎12级师弟师妹]]></title>
+    <link href="http://nanyareningd.github.io/blog/2012/10/01/guo-qing-2012/"/>
+    <updated>2012-10-01T00:00:00+08:00</updated>
+    <id>http://nanyareningd.github.io/blog/2012/10/01/guo-qing-2012</id>
+    <content type="html"><![CDATA[<p><img class="img-responsive" src="/images/post/20121001/2012guoqing.jpg"><!--more--></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2012端午节]]></title>
+    <link href="http://nanyareningd.github.io/blog/2012/06/24/duan-wu-2012/"/>
+    <updated>2012-06-24T00:00:00+08:00</updated>
+    <id>http://nanyareningd.github.io/blog/2012/06/24/duan-wu-2012</id>
+    <content type="html"><![CDATA[<p><img class="img-responsive" src="/images/post/20120624/2012duanwu.jpg"><!--more--></p>
+]]></content>
+  </entry>
+  
+</feed>

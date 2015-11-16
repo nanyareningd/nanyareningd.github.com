@@ -4,7 +4,7 @@
   <title><![CDATA[南雅ers在广东]]></title>
   <link href="http://nanyareningd.github.io/atom.xml" rel="self"/>
   <link href="http://nanyareningd.github.io/"/>
-  <updated>2015-11-16T22:20:21+08:00</updated>
+  <updated>2015-11-17T00:22:43+08:00</updated>
   <id>http://nanyareningd.github.io/</id>
   <author>
     <name><![CDATA[NANYAers]]></name>
@@ -14,11 +14,48 @@
 
   
   <entry>
+    <title type="html"><![CDATA[2015迎新]]></title>
+    <link href="http://nanyareningd.github.io/blog/2015/10/11/ying-xin-2015/"/>
+    <updated>2015-10-11T00:00:00+08:00</updated>
+    <id>http://nanyareningd.github.io/blog/2015/10/11/ying-xin-2015</id>
+    <content type="html"><![CDATA[<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20151011/2015yingxin01.jpg"><!--more--></p>
+
+<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20151011/2015yingxin03.jpg"></p>
+
+<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20151011/2015yingxin04.jpg"></p>
+
+<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20151011/2015yingxin05.jpg"></p>
+
+<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20151011/2015yingxin06.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2015毕业季]]></title>
+    <link href="http://nanyareningd.github.io/blog/2015/06/18/bi-ye-ji-scutse/"/>
+    <updated>2015-06-18T00:00:00+08:00</updated>
+    <id>http://nanyareningd.github.io/blog/2015/06/18/bi-ye-ji-scutse</id>
+    <content type="html"><![CDATA[<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20150618/2015biyeji01.jpg"><!--more--></p>
+
+<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20150618/2015biyeji02.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[2013~14跨年]]></title>
     <link href="http://nanyareningd.github.io/blog/2014/01/01/kua-nian-2013-2014/"/>
     <updated>2014-01-01T00:00:00+08:00</updated>
     <id>http://nanyareningd.github.io/blog/2014/01/01/kua-nian-2013-2014</id>
     <content type="html"><![CDATA[<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20140101/20132014kuanian.jpg"><!--more--></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2012~13跨年]]></title>
+    <link href="http://nanyareningd.github.io/blog/2013/01/01/kua-nian-2012-2013/"/>
+    <updated>2013-01-01T00:00:00+08:00</updated>
+    <id>http://nanyareningd.github.io/blog/2013/01/01/kua-nian-2012-2013</id>
+    <content type="html"><![CDATA[<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20130101/20122013kuanian.jpg"><!--more--></p>
 ]]></content>
   </entry>
   

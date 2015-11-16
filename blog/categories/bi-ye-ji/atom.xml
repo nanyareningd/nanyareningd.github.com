@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[分类：毕业季 | 南雅ers在广东]]></title>
+  <link href="http://nanyareningd.github.io/blog/categories/bi-ye-ji/atom.xml" rel="self"/>
+  <link href="http://nanyareningd.github.io/"/>
+  <updated>2015-11-17T00:22:43+08:00</updated>
+  <id>http://nanyareningd.github.io/</id>
+  <author>
+    <name><![CDATA[NANYAers]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[2015毕业季]]></title>
+    <link href="http://nanyareningd.github.io/blog/2015/06/18/bi-ye-ji-scutse/"/>
+    <updated>2015-06-18T00:00:00+08:00</updated>
+    <id>http://nanyareningd.github.io/blog/2015/06/18/bi-ye-ji-scutse</id>
+    <content type="html"><![CDATA[<p><img class="img-responsive" src="/images/post/20150618/2015biyeji01.jpg"><!--more--></p>
+
+<p><img class="img-responsive" src="/images/post/20150618/2015biyeji02.jpg"></p>
+]]></content>
+  </entry>
+  
+</feed>

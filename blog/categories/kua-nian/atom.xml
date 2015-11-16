@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[分类：2014 | 南雅ers在广东]]></title>
-  <link href="http://nanyareningd.github.io/blog/categories/2014/atom.xml" rel="self"/>
+  <title><![CDATA[分类：跨年 | 南雅ers在广东]]></title>
+  <link href="http://nanyareningd.github.io/blog/categories/kua-nian/atom.xml" rel="self"/>
   <link href="http://nanyareningd.github.io/"/>
   <updated>2015-11-17T00:22:43+08:00</updated>
   <id>http://nanyareningd.github.io/</id>
@@ -19,6 +19,15 @@
     <updated>2014-01-01T00:00:00+08:00</updated>
     <id>http://nanyareningd.github.io/blog/2014/01/01/kua-nian-2013-2014</id>
     <content type="html"><![CDATA[<p><img class="img-responsive" src="/images/post/20140101/20132014kuanian.jpg"><!--more--></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2012~13跨年]]></title>
+    <link href="http://nanyareningd.github.io/blog/2013/01/01/kua-nian-2012-2013/"/>
+    <updated>2013-01-01T00:00:00+08:00</updated>
+    <id>http://nanyareningd.github.io/blog/2013/01/01/kua-nian-2012-2013</id>
+    <content type="html"><![CDATA[<p><img class="img-responsive" src="/images/post/20130101/20122013kuanian.jpg"><!--more--></p>
 ]]></content>
   </entry>
   

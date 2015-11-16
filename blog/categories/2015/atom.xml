@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[分类：南雅 | 南雅ers在广东]]></title>
-  <link href="http://nanyareningd.github.io/blog/categories/nan-ya/atom.xml" rel="self"/>
+  <title><![CDATA[分类：2015 | 南雅ers在广东]]></title>
+  <link href="http://nanyareningd.github.io/blog/categories/2015/atom.xml" rel="self"/>
   <link href="http://nanyareningd.github.io/"/>
   <updated>2015-11-17T00:22:43+08:00</updated>
   <id>http://nanyareningd.github.io/</id>
@@ -38,33 +38,6 @@
     <content type="html"><![CDATA[<p><img class="img-responsive" src="/images/post/20150618/2015biyeji01.jpg"><!--more--></p>
 
 <p><img class="img-responsive" src="/images/post/20150618/2015biyeji02.jpg"></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[2013~14跨年]]></title>
-    <link href="http://nanyareningd.github.io/blog/2014/01/01/kua-nian-2013-2014/"/>
-    <updated>2014-01-01T00:00:00+08:00</updated>
-    <id>http://nanyareningd.github.io/blog/2014/01/01/kua-nian-2013-2014</id>
-    <content type="html"><![CDATA[<p><img class="img-responsive" src="/images/post/20140101/20132014kuanian.jpg"><!--more--></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[2012~13跨年]]></title>
-    <link href="http://nanyareningd.github.io/blog/2013/01/01/kua-nian-2012-2013/"/>
-    <updated>2013-01-01T00:00:00+08:00</updated>
-    <id>http://nanyareningd.github.io/blog/2013/01/01/kua-nian-2012-2013</id>
-    <content type="html"><![CDATA[<p><img class="img-responsive" src="/images/post/20130101/20122013kuanian.jpg"><!--more--></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[欢迎12级师弟师妹]]></title>
-    <link href="http://nanyareningd.github.io/blog/2012/10/01/guo-qing-2012/"/>
-    <updated>2012-10-01T00:00:00+08:00</updated>
-    <id>http://nanyareningd.github.io/blog/2012/10/01/guo-qing-2012</id>
-    <content type="html"><![CDATA[<p><img class="img-responsive" src="/images/post/20121001/2012guoqing.jpg"><!--more--></p>
 ]]></content>
   </entry>
   

@@ -1,14 +1,14 @@
-//·ÖÏíÁ´½ÓµÄËõÂÔÍ¼
-var imgUrl = '{{ root_url }}/favicon.png';
-//·ÖÏíÁ´½ÓµÄÁ´½ÓµØÖ·
-//var lineLink = 'http://www.uedbox.com/';
-//·ÖÏíÁ´½ÓµÄÃèÊöĞÅÏ¢
-var descContent = "³¤É³ÊĞÄÏÑÅÖĞÑ§¹ã¶«Ğ£ÓÑ×Ô¼ºµÄÍøÕ¾£¡";
-//·ÖÏíÁ´½ÓµÄ±êÌâ
-var shareTitle = "ÄÏÑÅersÔÚ¹ã¶«";
-//Ò»°ãÎª¿Õ ¾ÍºÃ
+//åˆ†äº«é“¾æ¥çš„ç¼©ç•¥å›¾
+var imgUrl = document.getElementsByTagName("img")[0].src;
+//åˆ†äº«é“¾æ¥çš„é“¾æ¥åœ°å€
+var lineLink = window.location.href;
+//åˆ†äº«é“¾æ¥çš„æè¿°ä¿¡æ¯
+var descContent = document.getElementById("description").content;
+//åˆ†äº«é“¾æ¥çš„æ ‡é¢˜
+var shareTitle = document.title;
+//ä¸€èˆ¬ä¸ºç©º å°±å¥½
 var appid = '';
-//·ÖÏí¸øºÃÓÑ
+//åˆ†äº«ç»™å¥½å‹
  
 function shareFriend() {
 	WeixinJSBridge.invoke('sendAppMessage', {
@@ -16,48 +16,48 @@ function shareFriend() {
 		"img_url": imgUrl,
 		"img_width": "640",
 		"img_height": "640",
-		//"link": lineLink,
+		"link": lineLink,
 		"desc": descContent,
 		"title": shareTitle
 	}, function(res) {
 		_report('send_msg', res.err_msg);
 	})
 }
-//·ÖÏíµ½ÅóÓÑÈ¦
+//åˆ†äº«åˆ°æœ‹å‹åœˆ
  
 function shareTimeline() {
 	WeixinJSBridge.invoke('shareTimeline', {
 		"img_url": imgUrl,
 		"img_width": "640",
 		"img_height": "640",
-		//"link": lineLink,
+		"link": lineLink,
 		"desc": descContent,
 		"title": shareTitle
 	}, function(res) {
 		_report('timeline', res.err_msg);
 	});
 }
-//·ÖÏíµ½ÌÚÑ¶Î¢²©
+//åˆ†äº«åˆ°è…¾è®¯å¾®åš
  
 function shareWeibo() {
 	WeixinJSBridge.invoke('shareWeibo', {
 		"content": descContent,
-		//"url": lineLink,
+		"url": lineLink,
 	}, function(res) {
 		_report('weibo', res.err_msg);
 	});
 }
-// µ±Î¢ĞÅÄÚÖÃä¯ÀÀÆ÷Íê³ÉÄÚ²¿³õÊ¼»¯ºó»á´¥·¢WeixinJSBridgeReadyÊÂ¼ş¡£
+// å½“å¾®ä¿¡å†…ç½®æµè§ˆå™¨å®Œæˆå†…éƒ¨åˆå§‹åŒ–åä¼šè§¦å‘WeixinJSBridgeReadyäº‹ä»¶ã€‚
 document.addEventListener('WeixinJSBridgeReady', function onBridgeReady() {
-	// ·¢ËÍ¸øºÃÓÑ
+	// å‘é€ç»™å¥½å‹
 	WeixinJSBridge.on('menu:share:appmessage', function(argv) {
 		shareFriend();
 	});
-	// ·ÖÏíµ½ÅóÓÑÈ¦
+	// åˆ†äº«åˆ°æœ‹å‹åœˆ
 	WeixinJSBridge.on('menu:share:timeline', function(argv) {
 		shareTimeline();
 	});
-	// ·ÖÏíµ½Î¢²©
+	// åˆ†äº«åˆ°å¾®åš
 	WeixinJSBridge.on('menu:share:weibo', function(argv) {
 		shareWeibo();
 	});

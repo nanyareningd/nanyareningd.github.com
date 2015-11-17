@@ -32,10 +32,10 @@
     <loc>http://nanyareningd.github.io/404.html</loc>
   </url>
   <url>
-    <loc>http://nanyareningd.github.io/</loc>
+    <loc>http://nanyareningd.github.io/blog/archives/</loc>
   </url>
   <url>
-    <loc>http://nanyareningd.github.io/blog/archives/</loc>
+    <loc>http://nanyareningd.github.io/</loc>
   </url>
   <url>
     <loc>http://nanyareningd.github.io/blog/our/</loc>
@@ -63,5 +63,14 @@
   </url>
   <url>
     <loc>http://nanyareningd.github.io/blog/categories/bi-ye-ji/</loc>
+  </url>
+  <url>
+    <loc>http://nanyareningd.github.io/posts/2/</loc>
+  </url>
+  <url>
+    <loc>http://nanyareningd.github.io/posts/3/</loc>
+  </url>
+  <url>
+    <loc>http://nanyareningd.github.io/posts/4/</loc>
   </url>
 </urlset>

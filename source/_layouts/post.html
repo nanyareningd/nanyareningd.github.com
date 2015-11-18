@@ -11,6 +11,9 @@ single: true
       {% include post/author.html %}
       {% include post/date.html %}{{ time }}{% if updated %} {{ updated }}{% endif %}
       {% include post/categories.html %}
+	  {% unless page.sharing == false %}
+		{% include post/sharing_weixin_qzone_weibo.html %}<!--分享的按钮-->
+	  {% endunless %}
     </p>
     {% unless page.sharing == false %}
       {% include post/sharing.html %}

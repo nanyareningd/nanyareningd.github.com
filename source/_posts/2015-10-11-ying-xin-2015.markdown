@@ -5,12 +5,36 @@ date: 2015-10-11
 comments: true
 categories: 南雅 2015
 ---
-{% img img-responsive /images/post/20151011/2015yingxin01.jpg %}<!--more-->
+<script type="text/javascript">
+	if(mobilecheck==false){
+		document.write('{% img img-responsive /images/post/20151011/2015yingxin01.jpg %}');
+	}
+	else{
+		document.write('{% img img-responsive /images/mobile/post/20151011/2015yingxin01.jpg %}');
+	}
+</script>
+<!--more-->
+<script type="text/javascript">
+	if(mobilecheck==false){
+		
+		document.write('{% img img-responsive /images/post/20151011/2015yingxin03.jpg %}');
 
-{% img img-responsive /images/post/20151011/2015yingxin03.jpg %}
+		document.write('{% img img-responsive /images/post/20151011/2015yingxin04.jpg %}');
 
-{% img img-responsive /images/post/20151011/2015yingxin04.jpg %}
+		document.write('{% img img-responsive /images/post/20151011/2015yingxin05.jpg %}');
 
-{% img img-responsive /images/post/20151011/2015yingxin05.jpg %}
+		document.write('{% img img-responsive /images/post/20151011/2015yingxin06.jpg %}');
 
-{% img img-responsive /images/post/20151011/2015yingxin06.jpg %}
+
+	}
+	else{
+		
+		document.write('{% img img-responsive /images/mobile/post/20151011/2015yingxin03.jpg %}');
+		
+		document.write('{% img img-responsive /images/mobile/post/20151011/2015yingxin04.jpg %}');
+		
+		document.write('{% img img-responsive /images/mobile/post/20151011/2015yingxin05.jpg %}');
+		
+		document.write('{% img img-responsive /images/mobile/post/20151011/2015yingxin06.jpg %}');
+	}
+</script>

@@ -5,5 +5,12 @@ date: 2012-06-24
 comments: true
 categories: 南雅 2012
 ---
-
-{% img img-responsive /images/post/20120624/2012duanwu.jpg %}<!--more-->
+<script type="text/javascript">
+	if(mobilecheck==false){
+		document.write('{% img img-responsive /images/post/20120624/2012duanwu.jpg %}');
+	}
+	else{
+		document.write('{% img img-responsive /images/mobile/post/20120624/2012duanwu.jpg %}');
+	}
+</script>
+<!--more-->

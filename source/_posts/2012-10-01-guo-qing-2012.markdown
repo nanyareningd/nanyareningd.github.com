@@ -5,4 +5,12 @@ date: 2012-10-01
 comments: true
 categories: 南雅 2012
 ---
-{% img img-responsive /images/post/20121001/2012guoqing.jpg %}<!--more-->
+<script type="text/javascript">
+	if(mobilecheck==false){
+		document.write('{% img img-responsive /images/post/20121001/2012guoqing.jpg %}');
+	}
+	else{
+		document.write('{% img img-responsive /images/mobile/post/20121001/2012guoqing.jpg %}');
+	}
+</script>
+<!--more-->

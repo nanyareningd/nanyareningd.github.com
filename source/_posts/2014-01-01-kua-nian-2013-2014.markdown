@@ -5,4 +5,12 @@ date: 2014-01-01
 comments: true
 categories: 南雅 2014 跨年
 ---
-{% img img-responsive /images/post/20140101/20132014kuanian.jpg %}<!--more-->
+<script type="text/javascript">
+	if(mobilecheck==false){
+		document.write('{% img img-responsive /images/post/20140101/20132014kuanian.jpg %}');
+	}
+	else{
+		document.write('{% img img-responsive /images/mobile/post/20140101/20132014kuanian.jpg %}');
+	}
+</script>
+<!--more-->

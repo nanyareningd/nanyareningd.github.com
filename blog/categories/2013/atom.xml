@@ -4,7 +4,7 @@
   <title><![CDATA[分类：2013 | 南雅ers在广东]]></title>
   <link href="http://nanyareningd.github.io/blog/categories/2013/atom.xml" rel="self"/>
   <link href="http://nanyareningd.github.io/"/>
-  <updated>2015-11-18T15:14:57+08:00</updated>
+  <updated>2015-11-18T23:58:05+08:00</updated>
   <id>http://nanyareningd.github.io/</id>
   <author>
     <name><![CDATA[NANYAers]]></name>
@@ -18,7 +18,18 @@
     <link href="http://nanyareningd.github.io/blog/2013/01/01/kua-nian-2012-2013/"/>
     <updated>2013-01-01T00:00:00+08:00</updated>
     <id>http://nanyareningd.github.io/blog/2013/01/01/kua-nian-2012-2013</id>
-    <content type="html"><![CDATA[<p><img class="img-responsive" src="/images/post/20130101/20122013kuanian.jpg"><!--more--></p>
+    <content type="html"><![CDATA[<script type="text/javascript">
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="/images/post/20130101/20122013kuanian.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="/images/mobile/post/20130101/20122013kuanian.jpg">');
+    }
+</script>
+
+
+<!--more-->
+
 ]]></content>
   </entry>
   

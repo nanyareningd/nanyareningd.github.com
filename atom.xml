@@ -4,7 +4,7 @@
   <title><![CDATA[南雅ers在广东]]></title>
   <link href="http://nanyareningd.github.io/atom.xml" rel="self"/>
   <link href="http://nanyareningd.github.io/"/>
-  <updated>2015-11-18T15:14:57+08:00</updated>
+  <updated>2015-11-18T23:58:05+08:00</updated>
   <id>http://nanyareningd.github.io/</id>
   <author>
     <name><![CDATA[NANYAers]]></name>
@@ -18,15 +18,74 @@
     <link href="http://nanyareningd.github.io/blog/2015/10/11/ying-xin-2015/"/>
     <updated>2015-10-11T00:00:00+08:00</updated>
     <id>http://nanyareningd.github.io/blog/2015/10/11/ying-xin-2015</id>
-    <content type="html"><![CDATA[<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20151011/2015yingxin01.jpg"><!--more--></p>
+    <content type="html"><![CDATA[<script type="text/javascript">
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/post/20151011/2015yingxin01.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/mobile/post/20151011/2015yingxin01.jpg">');
+    }
+</script>
 
-<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20151011/2015yingxin03.jpg"></p>
 
-<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20151011/2015yingxin04.jpg"></p>
+<!--more-->
 
-<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20151011/2015yingxin05.jpg"></p>
 
-<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20151011/2015yingxin06.jpg"></p>
+<script type="text/javascript">
+    if(mobilecheck==false){
+        
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/post/20151011/2015yingxin03.jpg">');
+
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/post/20151011/2015yingxin04.jpg">');
+
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/post/20151011/2015yingxin05.jpg">');
+
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/post/20151011/2015yingxin06.jpg">');
+
+
+    }
+    else{
+        
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/mobile/post/20151011/2015yingxin03.jpg">');
+        
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/mobile/post/20151011/2015yingxin04.jpg">');
+        
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/mobile/post/20151011/2015yingxin05.jpg">');
+        
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/mobile/post/20151011/2015yingxin06.jpg">');
+    }
+</script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2015国庆节 狼人杀]]></title>
+    <link href="http://nanyareningd.github.io/blog/2015/10/01/lang-ren-sha-2015-guo-qing/"/>
+    <updated>2015-10-01T00:00:00+08:00</updated>
+    <id>http://nanyareningd.github.io/blog/2015/10/01/lang-ren-sha-2015-guo-qing</id>
+    <content type="html"><![CDATA[<script type="text/javascript">
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/post/20151001/2015guoqinglangrensha01.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/mobile/post/20151001/2015guoqinglangrensha01.jpg">');
+    }
+</script>
+
+
+<!--more-->
+
+
+<script type="text/javascript">
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/post/20151001/2015guoqinglangrensha02.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/mobile/post/20151001/2015guoqinglangrensha02.jpg">');
+    }
+</script>
+
 ]]></content>
   </entry>
   
@@ -35,9 +94,19 @@
     <link href="http://nanyareningd.github.io/blog/2015/06/18/bi-ye-ji-scutse/"/>
     <updated>2015-06-18T00:00:00+08:00</updated>
     <id>http://nanyareningd.github.io/blog/2015/06/18/bi-ye-ji-scutse</id>
-    <content type="html"><![CDATA[<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20150618/2015biyeji01.jpg"><!--more--></p>
+    <content type="html"><![CDATA[<script type="text/javascript">
+    alert(mobilecheck +"page");
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/post/20150618/2015biyeji01.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/mobile/post/20150618/2015biyeji01.jpg">');
+    }
+</script>
 
-<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20150618/2015biyeji02.jpg"></p>
+
+<!--more-->
+
 ]]></content>
   </entry>
   
@@ -46,7 +115,18 @@
     <link href="http://nanyareningd.github.io/blog/2014/01/01/kua-nian-2013-2014/"/>
     <updated>2014-01-01T00:00:00+08:00</updated>
     <id>http://nanyareningd.github.io/blog/2014/01/01/kua-nian-2013-2014</id>
-    <content type="html"><![CDATA[<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20140101/20132014kuanian.jpg"><!--more--></p>
+    <content type="html"><![CDATA[<script type="text/javascript">
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/post/20140101/20132014kuanian.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/mobile/post/20140101/20132014kuanian.jpg">');
+    }
+</script>
+
+
+<!--more-->
+
 ]]></content>
   </entry>
   
@@ -55,7 +135,18 @@
     <link href="http://nanyareningd.github.io/blog/2013/01/01/kua-nian-2012-2013/"/>
     <updated>2013-01-01T00:00:00+08:00</updated>
     <id>http://nanyareningd.github.io/blog/2013/01/01/kua-nian-2012-2013</id>
-    <content type="html"><![CDATA[<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20130101/20122013kuanian.jpg"><!--more--></p>
+    <content type="html"><![CDATA[<script type="text/javascript">
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/post/20130101/20122013kuanian.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/mobile/post/20130101/20122013kuanian.jpg">');
+    }
+</script>
+
+
+<!--more-->
+
 ]]></content>
   </entry>
   
@@ -64,7 +155,18 @@
     <link href="http://nanyareningd.github.io/blog/2012/10/01/guo-qing-2012/"/>
     <updated>2012-10-01T00:00:00+08:00</updated>
     <id>http://nanyareningd.github.io/blog/2012/10/01/guo-qing-2012</id>
-    <content type="html"><![CDATA[<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20121001/2012guoqing.jpg"><!--more--></p>
+    <content type="html"><![CDATA[<script type="text/javascript">
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/post/20121001/2012guoqing.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/mobile/post/20121001/2012guoqing.jpg">');
+    }
+</script>
+
+
+<!--more-->
+
 ]]></content>
   </entry>
   
@@ -73,7 +175,18 @@
     <link href="http://nanyareningd.github.io/blog/2012/06/24/duan-wu-2012/"/>
     <updated>2012-06-24T00:00:00+08:00</updated>
     <id>http://nanyareningd.github.io/blog/2012/06/24/duan-wu-2012</id>
-    <content type="html"><![CDATA[<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20120624/2012duanwu.jpg"><!--more--></p>
+    <content type="html"><![CDATA[<script type="text/javascript">
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/post/20120624/2012duanwu.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/mobile/post/20120624/2012duanwu.jpg">');
+    }
+</script>
+
+
+<!--more-->
+
 ]]></content>
   </entry>
   
@@ -82,7 +195,18 @@
     <link href="http://nanyareningd.github.io/blog/2011/09/01/di-yi-ci-jian-mian/"/>
     <updated>2011-09-01T00:00:00+08:00</updated>
     <id>http://nanyareningd.github.io/blog/2011/09/01/di-yi-ci-jian-mian</id>
-    <content type="html"><![CDATA[<p><img class="img-responsive" src="http://nanyareningd.github.io/images/post/20110901/diyicijianmian.jpg"></p>
+    <content type="html"><![CDATA[<script type="text/javascript">
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/post/20110901/diyicijianmian.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="http://nanyareningd.github.io/images/mobile/post/20110901/diyicijianmian.jpg">');
+    }
+</script>
+
+
+<!--more-->
+
 ]]></content>
   </entry>
   

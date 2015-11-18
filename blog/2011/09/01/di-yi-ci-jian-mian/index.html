@@ -9,8 +9,7 @@
   <meta name="author" content="NANYAers">
 
   
-  <meta name="description" content="
-">
+  <meta name="description" content=" ">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -27,6 +26,11 @@
   
 
 </head>
+
+<script type="text/javascript">
+	<!--判读是否手机-->
+	mobilecheck = navigator.userAgent.match(/Mobile/i)=="Mobile";
+</script>
 
 <body   >
 
@@ -67,6 +71,11 @@
 
 
 <time class='entry-date' datetime='2011-09-01'><span class='date'>2011年9月1日</span> <span class='time'>12:00 am</span></time>
+		 | 
+  
+
+<span class="byline author vcard">作者：<span class="fn">NANYAers</span></span>
+
         
 		
 			| <a href="#comments">评论</a>
@@ -76,7 +85,18 @@
   </header>
 
 
-<div class="entry-content"><p><img class="img-responsive" src="/images/post/20110901/diyicijianmian.jpg"></p>
+<div class="entry-content"><script type="text/javascript">
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="/images/post/20110901/diyicijianmian.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="/images/mobile/post/20110901/diyicijianmian.jpg">');
+    }
+</script>
+
+
+<!--more-->
+
 </div>
 
 
@@ -96,12 +116,34 @@
       
 
 <span class="categories">
+分类：
   
     <a class='category' href='/blog/categories/2011/'>2011</a>, <a class='category' href='/blog/categories/nan-ya/'>南雅</a>
   
 </span>
 
 
+	  
+		<!--<div class="ds-share" data-thread-key="此处请替换为当前文章的thread-key" data-title="此处请替换为分享时显示的标题" data-images="此处请替换为分享时显示的图片的链接地址" data-content="此处请替换为分享时显示的内容" data-url="此处请替换为分享时显示的链接地址">-->
+<div id="ds-share" class="ds-share" 
+		data-thread-key="/blog/2011/09/01/di-yi-ci-jian-mian"
+		data-title="第一次见面"
+		data-url="http://nanyareningd.github.io/blog/2011/09/01/di-yi-ci-jian-mian/"		>
+	
+    <div class="ds-share-inline">
+      <ul  class="ds-share-icons-16">
+      	
+      	<li data-toggle="ds-share-icons-more"><a class="ds-more" href="javascript:void(0);">分享到：</a></li>
+        <li><a class="ds-wechat" href="javascript:void(0);" data-service="wechat">微信</a></li>
+		<li><a class="ds-qzone" href="javascript:void(0);" data-service="qzone">QQ空间</a></li>
+		<li><a class="ds-weibo" href="javascript:void(0);" data-service="weibo">微博</a></li>
+        	
+      </ul>
+      <div class="ds-share-icons-more">
+      </div>
+    </div>
+ </div><!--分享的按钮-->
+	  
     </p>
     
       <div class="sharing">
@@ -156,6 +198,10 @@ var duoshuoQuery = {short_name:"nanyareningd"};
       </li>
     
       <li class="post">
+        <a href="/blog/2015/10/01/lang-ren-sha-2015-guo-qing/">2015国庆节 狼人杀</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2015/06/18/bi-ye-ji-scutse/">2015毕业季</a>
       </li>
     
@@ -165,10 +211,6 @@ var duoshuoQuery = {short_name:"nanyareningd"};
     
       <li class="post">
         <a href="/blog/2013/01/01/kua-nian-2012-2013/">2012~13跨年</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/10/01/guo-qing-2012/">欢迎12级师弟师妹</a>
       </li>
     
   </ul>
@@ -184,8 +226,8 @@ var duoshuoQuery = {short_name:"nanyareningd"};
 <li class='category'><a href='/blog/categories/2012/'>2012 (2)</a></li>
 <li class='category'><a href='/blog/categories/2013/'>2013 (1)</a></li>
 <li class='category'><a href='/blog/categories/2014/'>2014 (1)</a></li>
-<li class='category'><a href='/blog/categories/2015/'>2015 (2)</a></li>
-<li class='category'><a href='/blog/categories/nan-ya/'>南雅 (7)</a></li>
+<li class='category'><a href='/blog/categories/2015/'>2015 (3)</a></li>
+<li class='category'><a href='/blog/categories/nan-ya/'>南雅 (8)</a></li>
 <li class='category'><a href='/blog/categories/bi-ye-ji/'>毕业季 (1)</a></li>
 <li class='category'><a href='/blog/categories/kua-nian/'>跨年 (2)</a></li>
  

@@ -4,7 +4,7 @@
   <title><![CDATA[分类：2015 | 南雅ers在广东]]></title>
   <link href="http://nanyareningd.github.io/blog/categories/2015/atom.xml" rel="self"/>
   <link href="http://nanyareningd.github.io/"/>
-  <updated>2015-11-18T15:14:57+08:00</updated>
+  <updated>2015-11-18T23:58:05+08:00</updated>
   <id>http://nanyareningd.github.io/</id>
   <author>
     <name><![CDATA[NANYAers]]></name>
@@ -18,15 +18,74 @@
     <link href="http://nanyareningd.github.io/blog/2015/10/11/ying-xin-2015/"/>
     <updated>2015-10-11T00:00:00+08:00</updated>
     <id>http://nanyareningd.github.io/blog/2015/10/11/ying-xin-2015</id>
-    <content type="html"><![CDATA[<p><img class="img-responsive" src="/images/post/20151011/2015yingxin01.jpg"><!--more--></p>
+    <content type="html"><![CDATA[<script type="text/javascript">
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="/images/post/20151011/2015yingxin01.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151011/2015yingxin01.jpg">');
+    }
+</script>
 
-<p><img class="img-responsive" src="/images/post/20151011/2015yingxin03.jpg"></p>
 
-<p><img class="img-responsive" src="/images/post/20151011/2015yingxin04.jpg"></p>
+<!--more-->
 
-<p><img class="img-responsive" src="/images/post/20151011/2015yingxin05.jpg"></p>
 
-<p><img class="img-responsive" src="/images/post/20151011/2015yingxin06.jpg"></p>
+<script type="text/javascript">
+    if(mobilecheck==false){
+        
+        document.write('<img class="img-responsive" src="/images/post/20151011/2015yingxin03.jpg">');
+
+        document.write('<img class="img-responsive" src="/images/post/20151011/2015yingxin04.jpg">');
+
+        document.write('<img class="img-responsive" src="/images/post/20151011/2015yingxin05.jpg">');
+
+        document.write('<img class="img-responsive" src="/images/post/20151011/2015yingxin06.jpg">');
+
+
+    }
+    else{
+        
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151011/2015yingxin03.jpg">');
+        
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151011/2015yingxin04.jpg">');
+        
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151011/2015yingxin05.jpg">');
+        
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151011/2015yingxin06.jpg">');
+    }
+</script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2015国庆节 狼人杀]]></title>
+    <link href="http://nanyareningd.github.io/blog/2015/10/01/lang-ren-sha-2015-guo-qing/"/>
+    <updated>2015-10-01T00:00:00+08:00</updated>
+    <id>http://nanyareningd.github.io/blog/2015/10/01/lang-ren-sha-2015-guo-qing</id>
+    <content type="html"><![CDATA[<script type="text/javascript">
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="/images/post/20151001/2015guoqinglangrensha01.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151001/2015guoqinglangrensha01.jpg">');
+    }
+</script>
+
+
+<!--more-->
+
+
+<script type="text/javascript">
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="/images/post/20151001/2015guoqinglangrensha02.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151001/2015guoqinglangrensha02.jpg">');
+    }
+</script>
+
 ]]></content>
   </entry>
   
@@ -35,9 +94,19 @@
     <link href="http://nanyareningd.github.io/blog/2015/06/18/bi-ye-ji-scutse/"/>
     <updated>2015-06-18T00:00:00+08:00</updated>
     <id>http://nanyareningd.github.io/blog/2015/06/18/bi-ye-ji-scutse</id>
-    <content type="html"><![CDATA[<p><img class="img-responsive" src="/images/post/20150618/2015biyeji01.jpg"><!--more--></p>
+    <content type="html"><![CDATA[<script type="text/javascript">
+    alert(mobilecheck +"page");
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="/images/post/20150618/2015biyeji01.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="/images/mobile/post/20150618/2015biyeji01.jpg">');
+    }
+</script>
 
-<p><img class="img-responsive" src="/images/post/20150618/2015biyeji02.jpg"></p>
+
+<!--more-->
+
 ]]></content>
   </entry>
   

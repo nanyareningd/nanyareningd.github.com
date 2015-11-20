@@ -4,7 +4,7 @@
   <title><![CDATA[分类：2015 | 南雅ers在广东]]></title>
   <link href="http://nanyareningd.github.io/blog/categories/2015/atom.xml" rel="self"/>
   <link href="http://nanyareningd.github.io/"/>
-  <updated>2015-11-19T00:23:45+08:00</updated>
+  <updated>2015-11-20T12:49:02+08:00</updated>
   <id>http://nanyareningd.github.io/</id>
   <author>
     <name><![CDATA[NANYAers]]></name>
@@ -105,6 +105,16 @@
 
 
 <!--more-->
+
+
+<script type="text/javascript">
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="/images/post/20150618/2015biyeji02.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="/images/mobile/post/20150618/2015biyeji02.jpg">');
+    }
+</script>
 
 ]]></content>
   </entry>

@@ -4,7 +4,7 @@
   <title><![CDATA[分类：2012 | 南雅ers在广东]]></title>
   <link href="http://nanyareningd.github.io/blog/categories/2012/atom.xml" rel="self"/>
   <link href="http://nanyareningd.github.io/"/>
-  <updated>2015-11-19T00:23:45+08:00</updated>
+  <updated>2015-11-20T12:49:02+08:00</updated>
   <id>http://nanyareningd.github.io/</id>
   <author>
     <name><![CDATA[NANYAers]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[2012迎新]]></title>
+    <link href="http://nanyareningd.github.io/blog/2012/10/14/ying-xin-2012/"/>
+    <updated>2012-10-14T00:00:00+08:00</updated>
+    <id>http://nanyareningd.github.io/blog/2012/10/14/ying-xin-2012</id>
+    <content type="html"><![CDATA[<script type="text/javascript">
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="/images/post/20121014/2012yingxin.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="/images/mobile/post/20121014/2012yingxin.jpg">');
+    }
+</script>
+
+
+<!--more-->
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[「回忆篇」国际张、喜感帝怒对歌《套马杆》]]></title>
+    <link href="http://nanyareningd.github.io/blog/2012/10/14/tao-ma-xuan/"/>
+    <updated>2012-10-14T00:00:00+08:00</updated>
+    <id>http://nanyareningd.github.io/blog/2012/10/14/tao-ma-xuan</id>
+    <content type="html"><![CDATA[<p><embed src="http://www.tudou.com/v/3yVxwTy2Pg4/&resourceId=0_05_02_99/v.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" width="480" height="400"></embed></p>
+
+<!--more-->
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[欢迎12级师弟师妹]]></title>

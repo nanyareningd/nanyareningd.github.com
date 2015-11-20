@@ -4,7 +4,7 @@
   <title><![CDATA[分类：2012 | 南雅ers在广东]]></title>
   <link href="http://nanyareningd.github.io/blog/categories/2012/atom.xml" rel="self"/>
   <link href="http://nanyareningd.github.io/"/>
-  <updated>2015-11-20T20:21:17+08:00</updated>
+  <updated>2015-11-21T00:58:39+08:00</updated>
   <id>http://nanyareningd.github.io/</id>
   <author>
     <name><![CDATA[NANYAers]]></name>
@@ -41,6 +41,27 @@
     <content type="html"><![CDATA[<iframe id="video" src="http://www.tudou.com/programs/view/html5embed.action?type=0&code=3yVxwTy2Pg4&lcode=&resourceId=379315028_06_05_99" allowtransparency="true" allowfullscreen="true" allowfullscreenInteractive="true" scrolling="no" border="0" frameborder="0" style="width:100%;" ></iframe>
 
 
+
+
+<script>
+    //为了使width:height=6:5
+    window.onresize=Init;
+    function Init(){
+            
+        document.getElementById("video").height=""+document.getElementById("video").clientWidth*0.83333+"";
+    }  
+    Init();
+</script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[「回忆篇」video of 10、11、12级 Birthday Party]]></title>
+    <link href="http://nanyareningd.github.io/blog/2012/10/14/birthday-party/"/>
+    <updated>2012-10-14T00:00:00+08:00</updated>
+    <id>http://nanyareningd.github.io/blog/2012/10/14/birthday-party</id>
+    <content type="html"><![CDATA[<iframe id="video" src="http://v.qq.com/iframe/player.html?vid=y0173f3hr2v" allowtransparency="true" allowfullscreen="true" allowfullscreenInteractive="true" scrolling="no" border="0" frameborder="0" style="width:100%;" ></iframe>
 
 
 <script>

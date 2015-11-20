@@ -91,11 +91,13 @@
 
 
 <script>
-        window.onresize=Init;  
-        function Init(){
+    //为了使width:height=6:5
+    window.onresize=Init;
+    function Init(){
             
-            document.getElementById("video").height=""+document.body.clientWidth*0.833+"";
-        } 
+        document.getElementById("video").height=""+document.getElementById("video").clientWidth*0.83333+"";
+    }  
+    Init();
 </script>
 
 </div>

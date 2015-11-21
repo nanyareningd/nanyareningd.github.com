@@ -1,6 +1,24 @@
 <hgroup>
-  <h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
-  {% if site.subtitle %}
-    <h2>{{ site.subtitle }}</h2>
-  {% endif %}
+	<table> 
+		<td>
+		  <!--20151121加了一个图标-->
+		  <div style="float:left;margin-right:15px;height:90px;width:69px;">
+			<table style="width:100%;height:100%;"> <!--为了居中-->
+				<tr valign=middle align=center>
+					<td>
+						<img src="{{ root_url }}/favicon.png" style="height:69px;width:69px;vertical-align:middle;">
+					</td>
+				</tr>
+			</table>
+		  </div>
+		</td>
+		<td>
+			<div>
+				<h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
+				{% if site.subtitle %}
+					<h2>{{ site.subtitle }}</h2>
+				{% endif %}
+			</div>
+		</td>
+	</table>
 </hgroup>

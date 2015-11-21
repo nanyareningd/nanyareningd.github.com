@@ -1,0 +1,17 @@
+---
+layout: post
+title: "2012迎新"
+date: 2012-10-14
+comments: true
+categories: 南雅 2012
+---
+
+<script type="text/javascript">
+	if(mobilecheck==false){
+		document.write('{% img img-responsive /images/post/20121014/2012yingxin.jpg %}');
+	}
+	else{
+		document.write('{% img img-responsive /images/mobile/post/20121014/2012yingxin.jpg %}');
+	}
+</script>
+<!--more-->

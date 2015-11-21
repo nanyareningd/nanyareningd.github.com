@@ -14,3 +14,11 @@ categories: 南雅 2015 毕业季
 	}
 </script>
 <!--more-->
+<script type="text/javascript">
+	if(mobilecheck==false){
+		document.write('{% img img-responsive /images/post/20150618/2015biyeji02.jpg %}');
+	}
+	else{
+		document.write('{% img img-responsive /images/mobile/post/20150618/2015biyeji02.jpg %}');
+	}
+</script>

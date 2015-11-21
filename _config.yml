@@ -2,9 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://nanyareningd.github.io
+url: http://gd.nanyaren.tk
+#http://nanyareningd.github.io #http://nanyareningd.gitcafe.io
 title: 南雅ers在广东
-subtitle: The website for NANYAers in GuangDong province.
+subtitle: NANYAers in GuangDong .
 author: NANYAers
 # simple_search: https://www.google.com/search
 description: 长沙市南雅中学广东校友官网

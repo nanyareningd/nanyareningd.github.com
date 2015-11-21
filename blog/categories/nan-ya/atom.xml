@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[分类：南雅 | 南雅ers在广东]]></title>
-  <link href="http://nanyareningd.github.io/blog/categories/nan-ya/atom.xml" rel="self"/>
-  <link href="http://nanyareningd.github.io/"/>
-  <updated>2015-11-21T00:58:39+08:00</updated>
-  <id>http://nanyareningd.github.io/</id>
+  <link href="http://gd.nanyaren.tk/blog/categories/nan-ya/atom.xml" rel="self"/>
+  <link href="http://gd.nanyaren.tk/"/>
+  <updated>2015-11-21T12:10:54+08:00</updated>
+  <id>http://gd.nanyaren.tk/</id>
   <author>
-    <name><![CDATA[NANYAers]]></name>
+    <name><![CDATA[NANYAersInGD]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[2015迎新]]></title>
-    <link href="http://nanyareningd.github.io/blog/2015/10/11/ying-xin-2015/"/>
+    <link href="http://gd.nanyaren.tk/blog/2015/10/11/ying-xin-2015/"/>
     <updated>2015-10-11T00:00:00+08:00</updated>
-    <id>http://nanyareningd.github.io/blog/2015/10/11/ying-xin-2015</id>
+    <id>http://gd.nanyaren.tk/blog/2015/10/11/ying-xin-2015</id>
     <content type="html"><![CDATA[<script type="text/javascript">
     if(mobilecheck==false){
         document.write('<img class="img-responsive" src="/images/post/20151011/2015yingxin01.jpg">');
@@ -61,9 +61,9 @@
   
   <entry>
     <title type="html"><![CDATA[2015国庆节 狼人杀]]></title>
-    <link href="http://nanyareningd.github.io/blog/2015/10/01/lang-ren-sha-2015-guo-qing/"/>
+    <link href="http://gd.nanyaren.tk/blog/2015/10/01/lang-ren-sha-2015-guo-qing/"/>
     <updated>2015-10-01T00:00:00+08:00</updated>
-    <id>http://nanyareningd.github.io/blog/2015/10/01/lang-ren-sha-2015-guo-qing</id>
+    <id>http://gd.nanyaren.tk/blog/2015/10/01/lang-ren-sha-2015-guo-qing</id>
     <content type="html"><![CDATA[<script type="text/javascript">
     if(mobilecheck==false){
         document.write('<img class="img-responsive" src="/images/post/20151001/2015guoqinglangrensha01.jpg">');
@@ -91,9 +91,9 @@
   
   <entry>
     <title type="html"><![CDATA[2015毕业季]]></title>
-    <link href="http://nanyareningd.github.io/blog/2015/06/18/bi-ye-ji-scutse/"/>
+    <link href="http://gd.nanyaren.tk/blog/2015/06/18/bi-ye-ji-scutse/"/>
     <updated>2015-06-18T00:00:00+08:00</updated>
-    <id>http://nanyareningd.github.io/blog/2015/06/18/bi-ye-ji-scutse</id>
+    <id>http://gd.nanyaren.tk/blog/2015/06/18/bi-ye-ji-scutse</id>
     <content type="html"><![CDATA[<script type="text/javascript">
     if(mobilecheck==false){
         document.write('<img class="img-responsive" src="/images/post/20150618/2015biyeji01.jpg">');
@@ -121,9 +121,9 @@
   
   <entry>
     <title type="html"><![CDATA[2013~14跨年]]></title>
-    <link href="http://nanyareningd.github.io/blog/2014/01/01/kua-nian-2013-2014/"/>
+    <link href="http://gd.nanyaren.tk/blog/2014/01/01/kua-nian-2013-2014/"/>
     <updated>2014-01-01T00:00:00+08:00</updated>
-    <id>http://nanyareningd.github.io/blog/2014/01/01/kua-nian-2013-2014</id>
+    <id>http://gd.nanyaren.tk/blog/2014/01/01/kua-nian-2013-2014</id>
     <content type="html"><![CDATA[<script type="text/javascript">
     if(mobilecheck==false){
         document.write('<img class="img-responsive" src="/images/post/20140101/20132014kuanian.jpg">');
@@ -141,9 +141,9 @@
   
   <entry>
     <title type="html"><![CDATA[2012~13跨年]]></title>
-    <link href="http://nanyareningd.github.io/blog/2013/01/01/kua-nian-2012-2013/"/>
+    <link href="http://gd.nanyaren.tk/blog/2013/01/01/kua-nian-2012-2013/"/>
     <updated>2013-01-01T00:00:00+08:00</updated>
-    <id>http://nanyareningd.github.io/blog/2013/01/01/kua-nian-2012-2013</id>
+    <id>http://gd.nanyaren.tk/blog/2013/01/01/kua-nian-2012-2013</id>
     <content type="html"><![CDATA[<script type="text/javascript">
     if(mobilecheck==false){
         document.write('<img class="img-responsive" src="/images/post/20130101/20122013kuanian.jpg">');

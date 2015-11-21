@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[分类：回忆篇 | 南雅ers在广东]]></title>
-  <link href="http://nanyareningd.github.io/blog/categories/hui-yi-pian/atom.xml" rel="self"/>
-  <link href="http://nanyareningd.github.io/"/>
-  <updated>2015-11-21T00:58:39+08:00</updated>
-  <id>http://nanyareningd.github.io/</id>
+  <link href="http://gd.nanyaren.tk/blog/categories/hui-yi-pian/atom.xml" rel="self"/>
+  <link href="http://gd.nanyaren.tk/"/>
+  <updated>2015-11-21T12:10:54+08:00</updated>
+  <id>http://gd.nanyaren.tk/</id>
   <author>
-    <name><![CDATA[NANYAers]]></name>
+    <name><![CDATA[NANYAersInGD]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[「回忆篇」国际张、喜感帝怒对歌《套马杆》]]></title>
-    <link href="http://nanyareningd.github.io/blog/2012/10/14/tao-ma-xuan/"/>
+    <link href="http://gd.nanyaren.tk/blog/2012/10/14/tao-ma-xuan/"/>
     <updated>2012-10-14T00:00:00+08:00</updated>
-    <id>http://nanyareningd.github.io/blog/2012/10/14/tao-ma-xuan</id>
+    <id>http://gd.nanyaren.tk/blog/2012/10/14/tao-ma-xuan</id>
     <content type="html"><![CDATA[<iframe id="video" src="http://www.tudou.com/programs/view/html5embed.action?type=0&code=3yVxwTy2Pg4&lcode=&resourceId=379315028_06_05_99" allowtransparency="true" allowfullscreen="true" allowfullscreenInteractive="true" scrolling="no" border="0" frameborder="0" style="width:100%;" ></iframe>
 
 
@@ -38,9 +38,9 @@
   
   <entry>
     <title type="html"><![CDATA[「回忆篇」video of 10、11、12级 Birthday Party]]></title>
-    <link href="http://nanyareningd.github.io/blog/2012/10/14/birthday-party/"/>
+    <link href="http://gd.nanyaren.tk/blog/2012/10/14/birthday-party/"/>
     <updated>2012-10-14T00:00:00+08:00</updated>
-    <id>http://nanyareningd.github.io/blog/2012/10/14/birthday-party</id>
+    <id>http://gd.nanyaren.tk/blog/2012/10/14/birthday-party</id>
     <content type="html"><![CDATA[<iframe id="video" src="http://v.qq.com/iframe/player.html?vid=y0173f3hr2v" allowtransparency="true" allowfullscreen="true" allowfullscreenInteractive="true" scrolling="no" border="0" frameborder="0" style="width:100%;" ></iframe>
 
 

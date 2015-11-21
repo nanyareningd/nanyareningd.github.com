@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://nanyareningd.github.io/sitemap.xml 
+Sitemap: http://gd.nanyaren.tk/sitemap.xml 

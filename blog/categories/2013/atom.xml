@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[分类：2013 | 南雅ers在广东]]></title>
-  <link href="http://nanyareningd.github.io/blog/categories/2013/atom.xml" rel="self"/>
-  <link href="http://nanyareningd.github.io/"/>
-  <updated>2015-11-21T00:58:39+08:00</updated>
-  <id>http://nanyareningd.github.io/</id>
+  <link href="http://gd.nanyaren.tk/blog/categories/2013/atom.xml" rel="self"/>
+  <link href="http://gd.nanyaren.tk/"/>
+  <updated>2015-11-21T12:10:54+08:00</updated>
+  <id>http://gd.nanyaren.tk/</id>
   <author>
-    <name><![CDATA[NANYAers]]></name>
+    <name><![CDATA[NANYAersInGD]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[2012~13跨年]]></title>
-    <link href="http://nanyareningd.github.io/blog/2013/01/01/kua-nian-2012-2013/"/>
+    <link href="http://gd.nanyaren.tk/blog/2013/01/01/kua-nian-2012-2013/"/>
     <updated>2013-01-01T00:00:00+08:00</updated>
-    <id>http://nanyareningd.github.io/blog/2013/01/01/kua-nian-2012-2013</id>
+    <id>http://gd.nanyaren.tk/blog/2013/01/01/kua-nian-2012-2013</id>
     <content type="html"><![CDATA[<script type="text/javascript">
     if(mobilecheck==false){
         document.write('<img class="img-responsive" src="/images/post/20130101/20122013kuanian.jpg">');

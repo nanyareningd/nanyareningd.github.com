@@ -108,20 +108,7 @@
   </header>
 
 
-<div class="entry-content"><iframe id="video" src="http://www.tudou.com/programs/view/html5embed.action?type=0&code=3yVxwTy2Pg4&lcode=&resourceId=379315028_06_05_99" allowtransparency="true" allowfullscreen="true" allowfullscreenInteractive="true" scrolling="no" border="0" frameborder="0" style="width:100%;" ></iframe>
-
-
-
-
-<script>
-    //为了使width:height=6:5
-    window.onresize=Init;
-    function Init(){
-            
-        document.getElementById("video").height=""+document.getElementById("video").clientWidth*0.83333+"";
-    }  
-    Init();
-</script>
+<div class="entry-content"><iframe name="default" src="http://www.tudou.com/programs/view/html5embed.action?type=0&code=3yVxwTy2Pg4&lcode=&resourceId=379315028_06_05_99"></iframe>
 
 </div>
 
@@ -303,7 +290,10 @@ var duoshuoQuery = {short_name:"nanyareningd"};
 	<!-- FontAwesome'logo   http://fortawesome.github.io/Font-Awesome/icons/ -->
 	<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
-  <script src="/javascripts/me/weixin.js" type="text/javascript"></script>
+  <!--这种针对微信分享的摘要生成，已经失效
+  <script src="/javascripts/me/weixin.js" type="text/javascript"></script>-->
+  <!--对video形态的定义-->
+  <script src="/javascripts/me/video.js" type="text/javascript"></script>
   
 </body>
 </html>

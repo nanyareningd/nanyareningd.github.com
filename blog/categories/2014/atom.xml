@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[分类：2014 | 南雅ers在广东]]></title>
-  <link href="http://gd.nanyaren.tk/blog/categories/2014/atom.xml" rel="self"/>
-  <link href="http://gd.nanyaren.tk/"/>
-  <updated>2015-11-21T22:43:54+08:00</updated>
-  <id>http://gd.nanyaren.tk/</id>
+  <link href="http://nanyareningd.gitcafe.io/blog/categories/2014/atom.xml" rel="self"/>
+  <link href="http://nanyareningd.gitcafe.io/"/>
+  <updated>2015-11-22T17:28:40+08:00</updated>
+  <id>http://nanyareningd.gitcafe.io/</id>
   <author>
     <name><![CDATA[NANYAers]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[2013~14跨年]]></title>
-    <link href="http://gd.nanyaren.tk/blog/2014/01/01/kua-nian-2013-2014/"/>
+    <link href="http://nanyareningd.gitcafe.io/blog/2014/01/01/kua-nian-2013-2014/"/>
     <updated>2014-01-01T00:00:00+08:00</updated>
-    <id>http://gd.nanyaren.tk/blog/2014/01/01/kua-nian-2013-2014</id>
+    <id>http://nanyareningd.gitcafe.io/blog/2014/01/01/kua-nian-2013-2014</id>
     <content type="html"><![CDATA[<script type="text/javascript">
     if(mobilecheck==false){
         document.write('<img class="img-responsive" src="/images/post/20140101/20132014kuanian.jpg">');

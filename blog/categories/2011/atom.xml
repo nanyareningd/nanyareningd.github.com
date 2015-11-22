@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[分类：2011 | 南雅ers在广东]]></title>
-  <link href="http://gd.nanyaren.tk/blog/categories/2011/atom.xml" rel="self"/>
-  <link href="http://gd.nanyaren.tk/"/>
-  <updated>2015-11-21T22:43:54+08:00</updated>
-  <id>http://gd.nanyaren.tk/</id>
+  <link href="http://nanyareningd.gitcafe.io/blog/categories/2011/atom.xml" rel="self"/>
+  <link href="http://nanyareningd.gitcafe.io/"/>
+  <updated>2015-11-22T17:28:40+08:00</updated>
+  <id>http://nanyareningd.gitcafe.io/</id>
   <author>
     <name><![CDATA[NANYAers]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[第一次见面]]></title>
-    <link href="http://gd.nanyaren.tk/blog/2011/09/01/di-yi-ci-jian-mian/"/>
+    <link href="http://nanyareningd.gitcafe.io/blog/2011/09/01/di-yi-ci-jian-mian/"/>
     <updated>2011-09-01T00:00:00+08:00</updated>
-    <id>http://gd.nanyaren.tk/blog/2011/09/01/di-yi-ci-jian-mian</id>
+    <id>http://nanyareningd.gitcafe.io/blog/2011/09/01/di-yi-ci-jian-mian</id>
     <content type="html"><![CDATA[<script type="text/javascript">
     if(mobilecheck==false){
         document.write('<img class="img-responsive" src="/images/post/20110901/diyicijianmian.jpg">');

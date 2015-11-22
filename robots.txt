@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://gd.nanyaren.tk/sitemap.xml 
+Sitemap: http://nanyareningd.gitcafe.io/sitemap.xml 

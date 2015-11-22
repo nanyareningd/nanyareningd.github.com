@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[南雅ers在广东]]></title>
-  <link href="http://gd.nanyaren.tk/atom.xml" rel="self"/>
-  <link href="http://gd.nanyaren.tk/"/>
-  <updated>2015-11-21T22:43:54+08:00</updated>
-  <id>http://gd.nanyaren.tk/</id>
+  <link href="http://nanyareningd.gitcafe.io/atom.xml" rel="self"/>
+  <link href="http://nanyareningd.gitcafe.io/"/>
+  <updated>2015-11-22T17:28:40+08:00</updated>
+  <id>http://nanyareningd.gitcafe.io/</id>
   <author>
     <name><![CDATA[NANYAers]]></name>
     
@@ -15,15 +15,15 @@
   
   <entry>
     <title type="html"><![CDATA[2015迎新]]></title>
-    <link href="http://gd.nanyaren.tk/blog/2015/10/11/ying-xin-2015/"/>
+    <link href="http://nanyareningd.gitcafe.io/blog/2015/10/11/ying-xin-2015/"/>
     <updated>2015-10-11T00:00:00+08:00</updated>
-    <id>http://gd.nanyaren.tk/blog/2015/10/11/ying-xin-2015</id>
+    <id>http://nanyareningd.gitcafe.io/blog/2015/10/11/ying-xin-2015</id>
     <content type="html"><![CDATA[<script type="text/javascript">
     if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/post/20151011/2015yingxin01.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151011/2015yingxin01.jpg">');
     }
     else{
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/mobile/post/20151011/2015yingxin01.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20151011/2015yingxin01.jpg">');
     }
 </script>
 
@@ -34,25 +34,25 @@
 <script type="text/javascript">
     if(mobilecheck==false){
         
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/post/20151011/2015yingxin03.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151011/2015yingxin03.jpg">');
 
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/post/20151011/2015yingxin04.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151011/2015yingxin04.jpg">');
 
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/post/20151011/2015yingxin05.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151011/2015yingxin05.jpg">');
 
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/post/20151011/2015yingxin06.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151011/2015yingxin06.jpg">');
 
 
     }
     else{
         
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/mobile/post/20151011/2015yingxin03.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20151011/2015yingxin03.jpg">');
         
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/mobile/post/20151011/2015yingxin04.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20151011/2015yingxin04.jpg">');
         
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/mobile/post/20151011/2015yingxin05.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20151011/2015yingxin05.jpg">');
         
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/mobile/post/20151011/2015yingxin06.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20151011/2015yingxin06.jpg">');
     }
 </script>
 
@@ -61,15 +61,15 @@
   
   <entry>
     <title type="html"><![CDATA[2015国庆节 狼人杀]]></title>
-    <link href="http://gd.nanyaren.tk/blog/2015/10/01/lang-ren-sha-2015-guo-qing/"/>
+    <link href="http://nanyareningd.gitcafe.io/blog/2015/10/01/lang-ren-sha-2015-guo-qing/"/>
     <updated>2015-10-01T00:00:00+08:00</updated>
-    <id>http://gd.nanyaren.tk/blog/2015/10/01/lang-ren-sha-2015-guo-qing</id>
+    <id>http://nanyareningd.gitcafe.io/blog/2015/10/01/lang-ren-sha-2015-guo-qing</id>
     <content type="html"><![CDATA[<script type="text/javascript">
     if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/post/20151001/2015guoqinglangrensha01.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151001/2015guoqinglangrensha01.jpg">');
     }
     else{
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/mobile/post/20151001/2015guoqinglangrensha01.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20151001/2015guoqinglangrensha01.jpg">');
     }
 </script>
 
@@ -79,10 +79,10 @@
 
 <script type="text/javascript">
     if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/post/20151001/2015guoqinglangrensha02.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151001/2015guoqinglangrensha02.jpg">');
     }
     else{
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/mobile/post/20151001/2015guoqinglangrensha02.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20151001/2015guoqinglangrensha02.jpg">');
     }
 </script>
 
@@ -91,15 +91,15 @@
   
   <entry>
     <title type="html"><![CDATA[2015毕业季]]></title>
-    <link href="http://gd.nanyaren.tk/blog/2015/06/18/bi-ye-ji-scutse/"/>
+    <link href="http://nanyareningd.gitcafe.io/blog/2015/06/18/bi-ye-ji-scutse/"/>
     <updated>2015-06-18T00:00:00+08:00</updated>
-    <id>http://gd.nanyaren.tk/blog/2015/06/18/bi-ye-ji-scutse</id>
+    <id>http://nanyareningd.gitcafe.io/blog/2015/06/18/bi-ye-ji-scutse</id>
     <content type="html"><![CDATA[<script type="text/javascript">
     if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/post/20150618/2015biyeji01.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20150618/2015biyeji01.jpg">');
     }
     else{
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/mobile/post/20150618/2015biyeji01.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20150618/2015biyeji01.jpg">');
     }
 </script>
 
@@ -109,10 +109,10 @@
 
 <script type="text/javascript">
     if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/post/20150618/2015biyeji02.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20150618/2015biyeji02.jpg">');
     }
     else{
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/mobile/post/20150618/2015biyeji02.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20150618/2015biyeji02.jpg">');
     }
 </script>
 
@@ -121,15 +121,15 @@
   
   <entry>
     <title type="html"><![CDATA[2013~14跨年]]></title>
-    <link href="http://gd.nanyaren.tk/blog/2014/01/01/kua-nian-2013-2014/"/>
+    <link href="http://nanyareningd.gitcafe.io/blog/2014/01/01/kua-nian-2013-2014/"/>
     <updated>2014-01-01T00:00:00+08:00</updated>
-    <id>http://gd.nanyaren.tk/blog/2014/01/01/kua-nian-2013-2014</id>
+    <id>http://nanyareningd.gitcafe.io/blog/2014/01/01/kua-nian-2013-2014</id>
     <content type="html"><![CDATA[<script type="text/javascript">
     if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/post/20140101/20132014kuanian.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20140101/20132014kuanian.jpg">');
     }
     else{
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/mobile/post/20140101/20132014kuanian.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20140101/20132014kuanian.jpg">');
     }
 </script>
 
@@ -141,15 +141,15 @@
   
   <entry>
     <title type="html"><![CDATA[2012~13跨年]]></title>
-    <link href="http://gd.nanyaren.tk/blog/2013/01/01/kua-nian-2012-2013/"/>
+    <link href="http://nanyareningd.gitcafe.io/blog/2013/01/01/kua-nian-2012-2013/"/>
     <updated>2013-01-01T00:00:00+08:00</updated>
-    <id>http://gd.nanyaren.tk/blog/2013/01/01/kua-nian-2012-2013</id>
+    <id>http://nanyareningd.gitcafe.io/blog/2013/01/01/kua-nian-2012-2013</id>
     <content type="html"><![CDATA[<script type="text/javascript">
     if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/post/20130101/20122013kuanian.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20130101/20122013kuanian.jpg">');
     }
     else{
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/mobile/post/20130101/20122013kuanian.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20130101/20122013kuanian.jpg">');
     }
 </script>
 
@@ -161,15 +161,15 @@
   
   <entry>
     <title type="html"><![CDATA[2012迎新]]></title>
-    <link href="http://gd.nanyaren.tk/blog/2012/10/14/ying-xin-2012/"/>
+    <link href="http://nanyareningd.gitcafe.io/blog/2012/10/14/ying-xin-2012/"/>
     <updated>2012-10-14T00:00:00+08:00</updated>
-    <id>http://gd.nanyaren.tk/blog/2012/10/14/ying-xin-2012</id>
+    <id>http://nanyareningd.gitcafe.io/blog/2012/10/14/ying-xin-2012</id>
     <content type="html"><![CDATA[<script type="text/javascript">
     if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/post/20121014/2012yingxin.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20121014/2012yingxin.jpg">');
     }
     else{
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/mobile/post/20121014/2012yingxin.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20121014/2012yingxin.jpg">');
     }
 </script>
 
@@ -181,9 +181,9 @@
   
   <entry>
     <title type="html"><![CDATA[「回忆篇」国际张、喜感帝怒对歌《套马杆》]]></title>
-    <link href="http://gd.nanyaren.tk/blog/2012/10/14/tao-ma-xuan/"/>
+    <link href="http://nanyareningd.gitcafe.io/blog/2012/10/14/tao-ma-xuan/"/>
     <updated>2012-10-14T00:00:00+08:00</updated>
-    <id>http://gd.nanyaren.tk/blog/2012/10/14/tao-ma-xuan</id>
+    <id>http://nanyareningd.gitcafe.io/blog/2012/10/14/tao-ma-xuan</id>
     <content type="html"><![CDATA[<iframe name="default" src="http://www.tudou.com/programs/view/html5embed.action?type=0&code=3yVxwTy2Pg4&lcode=&resourceId=379315028_06_05_99"></iframe>
 
 ]]></content>
@@ -191,9 +191,9 @@
   
   <entry>
     <title type="html"><![CDATA[「回忆篇」video of 10、11、12级 Birthday Party]]></title>
-    <link href="http://gd.nanyaren.tk/blog/2012/10/14/birthday-party/"/>
+    <link href="http://nanyareningd.gitcafe.io/blog/2012/10/14/birthday-party/"/>
     <updated>2012-10-14T00:00:00+08:00</updated>
-    <id>http://gd.nanyaren.tk/blog/2012/10/14/birthday-party</id>
+    <id>http://nanyareningd.gitcafe.io/blog/2012/10/14/birthday-party</id>
     <content type="html"><![CDATA[<iframe name="default" src="http://v.qq.com/iframe/player.html?vid=y0173f3hr2v"></iframe>
 
 ]]></content>
@@ -201,15 +201,15 @@
   
   <entry>
     <title type="html"><![CDATA[欢迎12级师弟师妹]]></title>
-    <link href="http://gd.nanyaren.tk/blog/2012/10/01/guo-qing-2012/"/>
+    <link href="http://nanyareningd.gitcafe.io/blog/2012/10/01/guo-qing-2012/"/>
     <updated>2012-10-01T00:00:00+08:00</updated>
-    <id>http://gd.nanyaren.tk/blog/2012/10/01/guo-qing-2012</id>
+    <id>http://nanyareningd.gitcafe.io/blog/2012/10/01/guo-qing-2012</id>
     <content type="html"><![CDATA[<script type="text/javascript">
     if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/post/20121001/2012guoqing.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20121001/2012guoqing.jpg">');
     }
     else{
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/mobile/post/20121001/2012guoqing.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20121001/2012guoqing.jpg">');
     }
 </script>
 
@@ -221,15 +221,15 @@
   
   <entry>
     <title type="html"><![CDATA[2012端午节]]></title>
-    <link href="http://gd.nanyaren.tk/blog/2012/06/24/duan-wu-2012/"/>
+    <link href="http://nanyareningd.gitcafe.io/blog/2012/06/24/duan-wu-2012/"/>
     <updated>2012-06-24T00:00:00+08:00</updated>
-    <id>http://gd.nanyaren.tk/blog/2012/06/24/duan-wu-2012</id>
+    <id>http://nanyareningd.gitcafe.io/blog/2012/06/24/duan-wu-2012</id>
     <content type="html"><![CDATA[<script type="text/javascript">
     if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/post/20120624/2012duanwu.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20120624/2012duanwu.jpg">');
     }
     else{
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/mobile/post/20120624/2012duanwu.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20120624/2012duanwu.jpg">');
     }
 </script>
 
@@ -241,15 +241,15 @@
   
   <entry>
     <title type="html"><![CDATA[第一次见面]]></title>
-    <link href="http://gd.nanyaren.tk/blog/2011/09/01/di-yi-ci-jian-mian/"/>
+    <link href="http://nanyareningd.gitcafe.io/blog/2011/09/01/di-yi-ci-jian-mian/"/>
     <updated>2011-09-01T00:00:00+08:00</updated>
-    <id>http://gd.nanyaren.tk/blog/2011/09/01/di-yi-ci-jian-mian</id>
+    <id>http://nanyareningd.gitcafe.io/blog/2011/09/01/di-yi-ci-jian-mian</id>
     <content type="html"><![CDATA[<script type="text/javascript">
     if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/post/20110901/diyicijianmian.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20110901/diyicijianmian.jpg">');
     }
     else{
-        document.write('<img class="img-responsive" src="http://gd.nanyaren.tk/images/mobile/post/20110901/diyicijianmian.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20110901/diyicijianmian.jpg">');
     }
 </script>
 

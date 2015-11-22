@@ -4,7 +4,7 @@
   <title><![CDATA[分类：南雅 | 南雅ers在广东]]></title>
   <link href="http://nanyareningd.gitcafe.io/blog/categories/nan-ya/atom.xml" rel="self"/>
   <link href="http://nanyareningd.gitcafe.io/"/>
-  <updated>2015-11-22T17:28:40+08:00</updated>
+  <updated>2015-11-22T23:41:13+08:00</updated>
   <id>http://nanyareningd.gitcafe.io/</id>
   <author>
     <name><![CDATA[NANYAers]]></name>
@@ -12,6 +12,48 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[「人物篇」戴竟涛在YY频道71953906等你听]]></title>
+    <link href="http://nanyareningd.gitcafe.io/blog/2015/11/22/dai-jing-tao/"/>
+    <updated>2015-11-22T00:00:00+08:00</updated>
+    <id>http://nanyareningd.gitcafe.io/blog/2015/11/22/dai-jing-tao</id>
+    <content type="html"><![CDATA[<p>戴竟涛，又名gsd，南雅高92，华工化工大四，学霸一只，即将是一名研究僧。</p>
+
+<p>爱学习，爱健身，更爱唱歌，他在YY频道 71953906 等你们听！每天晚上都有演唱会喔！</p>
+
+<script type="text/javascript">
+    if(mobilecheck==false){
+        document.write('<img class="img-responsive" src="/images/post/renwupian/daijingtao/daijingtao_jianshen.jpg">');
+    }
+    else{
+        document.write('<img class="img-responsive" src="/images/mobile/post/renwupian/daijingtao/daijingtao_jianshen.jpg">');
+    }
+</script>
+
+
+<!--more-->
+
+
+<script type="text/javascript">
+    if(mobilecheck==false){
+        
+        document.write('<img class="img-responsive" src="/images/post/renwupian/daijingtao/daijingtao_maimeng.jpg">');
+
+        document.write('<img class="img-responsive" src="/images/post/renwupian/daijingtao/daijingtao_yy.png">');
+
+    }
+    else{
+        
+        document.write('<img class="img-responsive" src="/images/mobile/post/renwupian/daijingtao/daijingtao_maimeng.jpg">');
+        
+        document.write('<img class="img-responsive" src="/images/mobile/post/renwupian/daijingtao/daijingtao_yy.png">');
+        
+    }
+</script>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[2015迎新]]></title>
@@ -130,26 +172,6 @@
     }
     else{
         document.write('<img class="img-responsive" src="/images/mobile/post/20140101/20132014kuanian.jpg">');
-    }
-</script>
-
-
-<!--more-->
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[2012~13跨年]]></title>
-    <link href="http://nanyareningd.gitcafe.io/blog/2013/01/01/kua-nian-2012-2013/"/>
-    <updated>2013-01-01T00:00:00+08:00</updated>
-    <id>http://nanyareningd.gitcafe.io/blog/2013/01/01/kua-nian-2012-2013</id>
-    <content type="html"><![CDATA[<script type="text/javascript">
-    if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="/images/post/20130101/20122013kuanian.jpg">');
-    }
-    else{
-        document.write('<img class="img-responsive" src="/images/mobile/post/20130101/20122013kuanian.jpg">');
     }
 </script>
 

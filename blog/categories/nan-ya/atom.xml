@@ -4,7 +4,7 @@
   <title><![CDATA[分类：南雅 | 南雅ers在广东]]></title>
   <link href="http://nanyareningd.gitcafe.io/blog/categories/nan-ya/atom.xml" rel="self"/>
   <link href="http://nanyareningd.gitcafe.io/"/>
-  <updated>2015-12-05T17:38:26+08:00</updated>
+  <updated>2015-12-05T18:57:35+08:00</updated>
   <id>http://nanyareningd.gitcafe.io/</id>
   <author>
     <name><![CDATA[NANYAers]]></name>
@@ -58,9 +58,9 @@
         document.write('<img class="img-responsive" src="/images/post/20151205/majiang1.png">');
     }
     else{
-        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/zhuoqiu.png">');
-        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/xbox.png">');
-        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/majiang1.png">');
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/zhuoqiu.jpg">');
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/xbox.jpg">');
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/majiang1.jpg">');
     }
 </script>
 
@@ -73,8 +73,8 @@
         document.write('<img class="img-responsive" src="/images/post/20151205/zhuomianzuqiu.png">');
     }
     else{
-        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/keting.png">');
-        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/zhuomianzuqiu.png">');
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/keting.jpg">');
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/zhuomianzuqiu.jpg">');
     }
 </script>
 
@@ -86,7 +86,7 @@
         document.write('<img class="img-responsive" src="/images/post/20151205/chufang.png">');
     }
     else{
-        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/chufang.png">');
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/chufang.jpg">');
     }
 </script>
 
@@ -96,11 +96,11 @@
 <script type="text/javascript">
     if(mobilecheck==false){
         document.write('<img class="img-responsive" src="/images/post/20151205/majiang2.png">');
-        document.write('<img class="img-responsive" src="/images/post/20151205/dachuang.png">');
+        document.write('<img class="img-responsive" src="/images/post/20151205/dachuang.jpg">');
     }
     else{
-        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/majiang2.png">');
-        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/dachuang.png">');
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/majiang2.jpg">');
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/dachuang.jpg">');
     }
 </script>
 
@@ -113,8 +113,8 @@
         document.write('<img class="img-responsive" src="/images/post/20151205/ktv.png">');
     }
     else{
-        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/zhuoyou.png">');
-        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/ktv.png">');
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/zhuoyou.jpg">');
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/ktv.jpg">');
     }
 </script>
 
@@ -139,10 +139,10 @@
 
 <script type="text/javascript">
     if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="/images/post/20151205/ditie.png">');
+        document.write('<img class="img-responsive" src="/images/post/20151205/ditie.jpg">');
     }
     else{
-        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/ditie.png">');
+        document.write('<img class="img-responsive" src="/images/mobile/post/20151205/ditie.jpg">');
     }
 </script>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[南雅ers在广东]]></title>
   <link href="http://nanyareningd.gitcafe.io/atom.xml" rel="self"/>
   <link href="http://nanyareningd.gitcafe.io/"/>
-  <updated>2015-12-05T18:57:35+08:00</updated>
+  <updated>2015-12-05T19:03:26+08:00</updated>
   <id>http://nanyareningd.gitcafe.io/</id>
   <author>
     <name><![CDATA[NANYAers]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[2015~16跨年夜邀请函]]></title>
+    <title type="html"><![CDATA[2015~16跨年邀请函]]></title>
     <link href="http://nanyareningd.gitcafe.io/blog/2015/12/05/kua-nian-yao-qing-han-2015-2016/"/>
     <updated>2015-12-05T00:00:00+08:00</updated>
     <id>http://nanyareningd.gitcafe.io/blog/2015/12/05/kua-nian-yao-qing-han-2015-2016</id>
-    <content type="html"><![CDATA[<h2>亲爱滴广东南雅ers，你们无比期待的跨年聚会要来了，我们在广州等你们的到来（快到碗里来！）</h2>
+    <content type="html"><![CDATA[<h2>亲爱滴广东南雅ers，你们无比期待的跨年聚会又要来了，我们在广州等你们的到来（快到碗里来！）</h2>
 
 <script type="text/javascript">
     if(mobilecheck==false){
@@ -53,9 +53,9 @@
 
 <script type="text/javascript">
     if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/zhuoqiu.png">');
-        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/xbox.png">');
-        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/majiang1.png">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/zhuoqiu.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/xbox.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/majiang1.jpg">');
     }
     else{
         document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20151205/zhuoqiu.jpg">');
@@ -69,8 +69,8 @@
 
 <script type="text/javascript">
     if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/keting.png">');
-        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/zhuomianzuqiu.png">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/keting.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/zhuomianzuqiu.jpg">');
     }
     else{
         document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20151205/keting.jpg">');
@@ -83,7 +83,7 @@
 
 <script type="text/javascript">
     if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/chufang.png">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/chufang.jpg">');
     }
     else{
         document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20151205/chufang.jpg">');
@@ -95,7 +95,7 @@
 
 <script type="text/javascript">
     if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/majiang2.png">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/majiang2.jpg">');
         document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/dachuang.jpg">');
     }
     else{
@@ -109,8 +109,8 @@
 
 <script type="text/javascript">
     if(mobilecheck==false){
-        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/zhuoyou.png">');
-        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/ktv.png">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/zhuoyou.jpg">');
+        document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/post/20151205/ktv.jpg">');
     }
     else{
         document.write('<img class="img-responsive" src="http://nanyareningd.gitcafe.io/images/mobile/post/20151205/zhuoyou.jpg">');
